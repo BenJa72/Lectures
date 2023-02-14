@@ -45,4 +45,9 @@ CIDR /27/29
 AS = autonomus system
 IANA 35678
 
-2.5 static / dynamic
+2.5 static / dynamic = protocols
+----------------------------------
+
+Full view - 1 million route 
+Минимизация таблиц маршрутизации (чем меньше записей, тем быстрее маршрутное решение)
+
