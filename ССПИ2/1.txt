@@ -74,3 +74,6 @@ FIB = Forwarding information base
 
 10.10.10.5 -> 11.11.11.2 -> fa0/0 (посчитал зарание)
 
+unicast = RIP / EIFRP / OSPF / BGP
+multicast = IGMP / PIM
+broadcast 10.10.10.255/24 | 255.255.255.255
