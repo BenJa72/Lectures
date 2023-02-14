@@ -108,3 +108,5 @@ Switch / Router - можно рассматривать с 3-х позиций
 1. Data Plane (пересылка пользовательских данных)
 2. Control Plane = routing protocols (пересылка важных данных)
 3. Management Plane = telnet / ssh (Управленченская информация)
+
+test 
