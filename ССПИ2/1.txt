@@ -38,3 +38,11 @@ S 12.12.12.0/24 fa0/0 via 11.11.11.2
 A 1-126
 B 128-191/16
 C 192-223/24
+CIDR /27/29
+3. IGP / EGP
+    interior gateway Protocol
+    exterior gateway Protocol
+AS = autonomus system
+IANA 35678
+
+2.5 static / dynamic
