@@ -1,1 +1,17 @@
-Hello World
+EVE-nG
+
+UnetLAB -> EVE-nG = UBUNTU
+pnetlab
+
+CML(VIRL)
+
+eve-ng.net
+
+PRO
+Community => 2 -> 5
+
+WSCP
+
+SFTP -> смотрим ip -> root -> eve -> yes 
+opt -> unitlab -> addons -> dynamips, Iou, QEMU
+
