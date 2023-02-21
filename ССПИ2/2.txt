@@ -15,3 +15,11 @@ WSCP
 SFTP -> смотрим ip -> root -> eve -> yes 
 opt -> unitlab -> addons -> dynamips, Iou, QEMU
 
+ROUTERCSR (CISCO)
+
+IOS = 12/5
+CSR = IOS XE 16 ...
+
+HTML5!
+
+Соединяем кабелем только выкл устройства
